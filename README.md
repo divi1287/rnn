@@ -1,2 +1,2 @@
 # rnn
-creates a neural network model for stock prediction
+creates a neural network model for stock prediction....
